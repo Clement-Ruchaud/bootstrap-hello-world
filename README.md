@@ -1,1 +1,3 @@
-Romain est pas tres tres sympas
+l'équipe est composé de :
+Clément Ruchaud
+Romain Mikalef
